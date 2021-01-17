@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi Folks!  👋
+- ⚡ Fun fact: Violeiro (10 string guitar) and  (Small guitar - 4 strings) player!
 
 <!--
 **ThiagueraBarao/ThiagueraBarao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
